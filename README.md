@@ -1,1 +1,0 @@
-# mern-ai-bootcamp
